@@ -1,0 +1,89 @@
+09/17/2023, 
+
+9:32-10:30PM
+
+Created wire frames for for desktop.
+
+9/18/2023,
+
+8:45PM - 9:23PM
+
+Created wire frames for tablet and phone
+
+9/20/2023
+9:01PM-1056PM
+
+Recreated outlines and wire framing after class instruction
+
+9/21/2023
+8:46PM - 9:58PM
+
+Finished up wire framing in figma and uploaded to assignment on learnworlds
+
+9/21/2023
+
+10:08-10:45PM 
+
+Created index.html and style.css to start working on bootstrap grid with 3 columns
+
+9/22/2023
+5:38PM-7:06PM
+
+8:28PM-8:48PM
+
+9:38PM-10:42PM
+Studied bootstrap udemy course
+
+9/25/2023
+
+8:40PM-10:45PM
+Configured bootstrap grid to show columns and remove columns based on phone, tablet, desktop breakpoints
+Configured Email view component using cards
+Configured Folder List column using the card component
+Configured Email View colomn using the card component with button
+Configured Nav bar
+
+9/26/2023
+
+8:40PM - 9:54PM
+
+Studied navbar components and drop down menus for navbar
+
+9/27/2023
+
+4:04PM-4:34PM
+
+Studied more on navbar components on bootstrap docs website.
+
+9/27/2023
+8:20PM - 10:33PM
+
+Added Compose button
+Installed font awesome
+Tested some columon size based on break point
+
+9/28/2023
+1:50PM - 2:33PM
+Changed compose button to a modal button
+Change background color to grey
+
+9/28/2023
+9:17PM-10:50PM
+Removed Padding from columns
+Changed the folder display colum to use 2 units from breakpoints md and up
+Added detective logo to navbar
+Added two hamburger offcanvass components to navbar
+Configured offcanvass to show up on left and right side of screen
+
+9/29/2023
+10:09pm-11:20PM
+changed the hamburger icon to font awesome kebob icon
+removed the style for the width on the cards in all of the columns
+configured the hamburger menu to disply on small screen breakpoint
+added font awesome paperclip icon to attach in email compose modal
+
+10/3/2023
+8:22PM-9:29PM
+Changed the card layout into a container to better space out my elements within the cards
+Changed the compose modal to lie outside of main container so in can display on phone screen
+

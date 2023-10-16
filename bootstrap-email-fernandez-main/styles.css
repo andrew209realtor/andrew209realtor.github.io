@@ -1,0 +1,9 @@
+
+.col {
+    height: 100vh;
+}
+
+.email-folder-view-col, .email-view-col, .email-reply-view-col {
+  background-color: grey;
+
+}
